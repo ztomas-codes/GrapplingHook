@@ -1,0 +1,4 @@
+name: GrapplingHook2
+version: ${project.version}
+main: me.lordmefloun.grapplinghook2.GrapplingHook2
+authors: [ LordMefloun ]
